@@ -19,5 +19,9 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+  "dependencies": {
+    "require": "^2.4.20",
+    "simplex-noise": "^2.4.0"
+  }
 }
